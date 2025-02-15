@@ -1,5 +1,5 @@
 #Bank
-#This program should prompt users and read in two money amounts
+#This program should prompt users to enter amount, read in two money amounts and print answer in Euro format
 #author: Michael Lawal
 
 prompt1 = 'Enter First Amount (in cents):'
