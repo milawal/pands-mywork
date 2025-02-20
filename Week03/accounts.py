@@ -18,7 +18,7 @@ print("Masked Account Number:", masked_account)
 # Modifying the program above to consider account number of any length
 def mask_account_number(account_number):
     length = len(account_number)
-    if length > 4:
+    if length > 4:  # If the account number is longer than 4 characters, mask the first (length - 4) characters and last 4 digits remain unchanged
         return 'X' * (length - 4) + account_number[-4:]
     else:
         return account_number  # If the account number is 4 or less than 4, no masking is required
