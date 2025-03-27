@@ -1,6 +1,6 @@
 #Reading text files
-#this program reads in a text file and outputs the number of e's it contains, program should also take the filename from an argumnet on the command line
-#author: Michael Lawal
+#This program reads in a text file and outputs the number of e's it contains, program should also take the filename from an argumnet on the command line
+#Author: Michael Lawal
 
 import sys
 import os
