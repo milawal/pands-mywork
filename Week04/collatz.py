@@ -1,6 +1,7 @@
 # Collatz
 # This program asks users to input any positive integer and outputs the successive values of the calculation
 # author: Michael Lawal
+# Reference: Collatz conjecture, Python loops, and conditional statements.
 
 # Function to perform the calculation and print the sequence
 def collatz_sequence(n):

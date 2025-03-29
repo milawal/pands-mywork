@@ -1,6 +1,7 @@
-#Accounts
-#This program reads a 10 character account number and prints outputs (account number) showing only the last 4 digits
-#author: Michael Lawal
+# Accounts
+# This program reads a 10 character account number and prints outputs (account number) showing only the last 4 digits
+# author: Michael Lawal
+# Reference: Python string manipulation and input/output operations.
 
 def mask_account_number(account_number):
     if len(account_number) == 10:

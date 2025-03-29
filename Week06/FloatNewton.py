@@ -1,6 +1,7 @@
-#Newton method for estimating squareroots
-#This program takes a positive floating-point number as input and outputs an approximation of its square root
-#Author: Michael Lawal
+# Newton method for estimating squareroots
+# This program takes a positive floating-point number as input and outputs an approximation of its square root
+# Author: Michael Lawal
+# Reference: Newton-Raphson method for approximating square roots, iterative numerical methods.
 
 def sqrt(x):
     # Initial guess (we can use x / 2 as a reasonable starting point)

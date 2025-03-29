@@ -1,6 +1,7 @@
 #Bank
-#This program should prompt users to enter amount, read in two money amounts and print answer in Euro format
-#author: Michael Lawal
+# This program should prompt users to enter amount, read in two money amounts and print answer in Euro format
+# Author: Michael Lawal
+# Reference: Python input/output operations, integer arithmetic, and string formatting.
 
 prompt1 = 'Enter First Amount (in cents):'
 Amount1= int(input(prompt1))

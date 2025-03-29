@@ -1,6 +1,7 @@
-#Reading text files
-#This program reads in a text file and outputs the number of e's it contains, program should also take the filename from an argumnet on the command line
-#Author: Michael Lawal
+# Reading text files
+# This program reads in a text file and outputs the number of e's it contains, program should also take the filename from an argumnet on the command line
+# Author: Michael Lawal
+# Reference: Python file handling, command-line arguments, string methods.
 
 import sys
 import os

@@ -1,6 +1,7 @@
-#Weekday Detector
-#This program outputs whether or not today is a weekday
-#Author: Michael Lawal
+# Weekday Detector
+# This program outputs whether or not today is a weekday
+# Author: Michael Lawal
+# Reference: Python datetime module for retrieving the current day of the week.
 
 import datetime
 

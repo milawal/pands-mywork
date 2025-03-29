@@ -1,6 +1,7 @@
 # Plottask
 # This program generates the required histogram and function plot in a visually appealing manner
 # Author: Michael Lawal
+# Reference: Matplotlib for plotting, NumPy for numerical calculations.
 
 import numpy as np
 import matplotlib.pyplot as plt
